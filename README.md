@@ -1,170 +1,479 @@
-<!-- ============================================================= -->
-<!--              🚀  HIMESH KUMAR (@ERHIMESH)  ·  README          -->
-<!-- ============================================================= -->
-
-<!-- ===== ANIMATED NEON HEADER ===== -->
+<!-- ================= HERO ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,45:2575fc,100:00f0ff&height=280&section=header&text=HIMESH%20KUMAR&fontSize=72&fontColor=ffffff&animation=twinkling&stroke=00f0ff&strokeWidth=1&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Video%20Editor%20%E2%80%A2%20AI%20Enthusiast&descAlignY=56&descSize=20" alt="header"/>
-</div>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Himesh+Kumar;Frontend+Developer+%F0%9F%92%BB;Video+Editor+%F0%9F%8E%AC;Python+%26+UI+Builder+%E2%9A%A1;Seeking+Entry-Level+Roles+%F0%9F%9A%80" alt="typing"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,45:DB2777,100:F59E0B&height=220&section=header&text=Himesh%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Tech%20Educator%20%E2%80%A2%20B.Tech%20CSE&descSize=19&descAlignY=56&animation=fadeIn" alt="Himesh Kumar banner" />
+
+<a href="https://github.com/ERHIMESH">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=React+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+Python;Novathon+Champion+%E2%80%94+Ranked+%231+Overall+%F0%9F%8F%86;3x+Campus+Ambassador;Explaining+B.Tech+concepts+on+Crafto+Engineer+%F0%9F%93%BA;Open+to+Frontend+%26+AI+Internships+%F0%9F%9A%80" alt="Animated introduction" />
+</a>
+
+<p>
+  <b>I turn ideas into responsive web experiences—and difficult engineering topics into simple videos.</b>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/himeshji">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <a href="https://youtube.com/@ythimeshkp?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <a href="mailto:jodhpuribannahimesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/ERHIMESH">
+    <img src="https://img.shields.io/badge/GitHub-ERHIMESH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ERHIMESH&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
+
+  <img src="https://img.shields.io/badge/Jodhpur-Rajasthan-F59E0B?style=flat-square&logo=googlemaps&logoColor=white" alt="Jodhpur, Rajasthan" />
+
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square" alt="Open to internships" />
+</p>
+
 </div>
 
-<!-- ===== SOCIAL BADGES ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ERHIMESH&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="views"/>
-  <a href="https://github.com/ERHIMESH?tab=followers"><img src="https://img.shields.io/github/followers/ERHIMESH?label=Followers&style=for-the-badge&color=2575fc&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Jodhpur%2C%20India-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black"/>
-</div>
+---
 
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<!-- ================= ABOUT ================= -->
+## 👋 About Me
 
-<!-- ===== ABOUT ME (CARD LAYOUT) ===== -->
-<h2 align="center">💫 About Me</h2>
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer working at a desk" />
 
-<table align="center">
-  <tr>
-    <td width="58%" valign="top">
-      <br/>
-      🎓 &nbsp; <b>B.Tech CSE</b> @ Lachoo Memorial College (2025–2029)<br/><br/>
-      💻 &nbsp; <b>Frontend Developer</b> — clean, responsive & animated UIs<br/><br/>
-      🎬 &nbsp; <b>Video Editor</b> — engaging visual content<br/><br/>
-      🤖 &nbsp; <b>AI Intern</b> @ Codec Technologies — real-world ML<br/><br/>
-      🎤 &nbsp; <b>Google Student Ambassador</b> & Campus Ambassador<br/><br/>
-      🌱 &nbsp; Currently exploring <b>React</b> & <b>AI / ML</b><br/><br/>
-      ⚡ &nbsp; <i>I turn caffeine + curiosity into clean code</i> ☕
-      <br/><br/>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="developer animation"/>
-    </td>
-  </tr>
+I'm **Himesh Kumar**, a B.Tech Computer Science Engineering student at **Lachoo Memorial College of Science & Tech** and a frontend developer based in Jodhpur, Rajasthan.
+
+- 💻 I build clean, responsive interfaces using **React, JavaScript, HTML and CSS**.
+- 🐍 I also work with **Python** and have built desktop GUI projects.
+- 🤖 I have hands-on exposure to **Generative AI, Prompt Engineering and LLMs**.
+- 🎬 I create and edit educational videos for **Crafto Engineer**.
+- 🏆 I am a **Novathon Champion — Ranked #1 Overall**.
+- 🌟 I have represented student communities as a **3x Campus Ambassador**.
+- 🚀 I am currently open to **Frontend and AI internships**.
+
+<br clear="right" />
+
+---
+
+<!-- ================= EXPERIENCE ================= -->
+## 💼 Experience & Leadership
+
+<table>
+
+<!-- GOOGLE EXPERIENCE -->
+<tr>
+  <td width="150" align="center">
+    <img
+      src="https://www.vectorlogo.zone/logos/google/google-icon.svg"
+      width="60"
+      height="60"
+      alt="Google Logo"
+    />
+    <br />
+    <b>Google</b>
+  </td>
+
+  <td>
+    <b>Campus Ambassador — Google Student Ambassadors (India)</b>
+    <br />
+    <sub>April 2026 – Present · Jodhpur</sub>
+    <br />
+    Selected to represent Lachoo Memorial College in the Google Student Ambassador community.
+  </td>
+</tr>
+
+<!-- SIN SCHOOL OF AI EXPERIENCE -->
+<tr>
+  <td width="150" align="center">
+    <img
+      src="https://img.shields.io/badge/SIN-AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
+      alt="SIN School of AI"
+    />
+    <br />
+    <b>SIN School of AI</b>
+  </td>
+
+  <td>
+    <b>15-Day Generative AI Intern — SIN School of AI</b>
+    <br />
+    <sub>June 2026 · India</sub>
+    <br />
+    Built AI-based projects, explored real-world applications, and gained hands-on experience with Prompt Engineering and LLMs.
+    Achieved <b>90% overall performance</b>.
+  </td>
+</tr>
+
+<!-- IIT DELHI EXPERIENCE -->
+<tr>
+  <td width="150" align="center">
+    <img
+      src="https://img.shields.io/badge/eDC-IIT%20Delhi-C41E3A?style=for-the-badge"
+      alt="eDC IIT Delhi"
+    />
+  </td>
+
+  <td>
+    <b>Campus Ambassador — Entrepreneurship Development Cell, IIT Delhi</b>
+    <br />
+    <sub>December 2025 – February 2026</sub>
+  </td>
+</tr>
+
+<!-- IIT GUWAHATI EXPERIENCE -->
+<tr>
+  <td width="150" align="center">
+    <img
+      src="https://img.shields.io/badge/UDGAM-IIT%20Guwahati-1D4ED8?style=for-the-badge"
+      alt="UDGAM IIT Guwahati"
+    />
+  </td>
+
+  <td>
+    <b>Campus Ambassador — UDGAM'26, IIT Guwahati</b>
+    <br />
+    <sub>November 2025 – January 2026 · Guwahati</sub>
+    <br />
+    Strengthened networking and community-outreach skills through the UDGAM'26 journey.
+  </td>
+</tr>
+
 </table>
 
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+---
 
-<!-- ===== TECH STACK ===== -->
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<!-- ================= YOUTUBE ================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,55:DB2777,100:6D28D9&height=86&section=header&text=%F0%9F%93%BA%20Crafto%20Engineer&fontSize=31&fontColor=ffffff&fontAlignY=55" alt="Crafto Engineer YouTube channel" />
+
+### Engineering concepts, exam-ready explanations and career guidance
+
+<p>
+  <a href="https://youtube.com/@ythimeshkp?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/SUBSCRIBE-@ythimeshkp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Crafto Engineer" />
+  </a>
+
+  <img src="https://img.shields.io/badge/39-Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="39 subscribers" />
+
+  <img src="https://img.shields.io/badge/67-Videos-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" alt="67 videos" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Engineering%20Mathematics-EC4899?style=flat-square" alt="Engineering Mathematics" />
+
+  <img src="https://img.shields.io/badge/Engineering%20Physics-8B5CF6?style=flat-square" alt="Engineering Physics" />
+
+  <img src="https://img.shields.io/badge/Electrical%20%26%20Electronics-F59E0B?style=flat-square" alt="Electrical and Electronics" />
+
+  <img src="https://img.shields.io/badge/Web%20Basics-0EA5E9?style=flat-square" alt="Web Basics" />
+
+  <img src="https://img.shields.io/badge/Career%20Guidance-22C55E?style=flat-square" alt="Career Guidance" />
+</p>
+
+</div>
+
+### 🎬 Featured Videos
+
+<table>
+<tr>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=Bqcv9SJA38g">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/Bqcv9SJA38g/hqdefault.jpg"
+      alt="Crack Google Student Ambassador Program"
+    />
+    <br />
+    <b>Crack Google Student Ambassador Program</b>
+  </a>
+  <br />
+  <sub>3-minute selected interview walkthrough</sub>
+</td>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=gAbBfFnwp1k">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/gAbBfFnwp1k/hqdefault.jpg"
+      alt="Website Basic Information"
+    />
+    <br />
+    <b>Website Basic Information</b>
+  </a>
+  <br />
+  <sub>Notes, points and core concepts</sub>
+</td>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=zmtpvLXMDAE">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/zmtpvLXMDAE/hqdefault.jpg"
+      alt="DC Circuits"
+    />
+    <br />
+    <b>DC Circuits — Important Numericals</b>
+  </a>
+  <br />
+  <sub>B.Tech 1st semester</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=3XCMiHkLWtY">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/3XCMiHkLWtY/hqdefault.jpg"
+      alt="Electronics and Electrical Engineering"
+    />
+    <br />
+    <b>Electronics & Electrical Engineering</b>
+  </a>
+  <br />
+  <sub>Important questions for B.Tech</sub>
+</td>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=HdgS5JJHkec">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/HdgS5JJHkec/hqdefault.jpg"
+      alt="Engineering Physics derivations"
+    />
+    <br />
+    <b>Engineering Physics — Derivations</b>
+  </a>
+  <br />
+  <sub>Important 1st-semester derivations</sub>
+</td>
+
+<td width="33.33%" align="center">
+  <a href="https://www.youtube.com/watch?v=4ydG-NRTR_U">
+    <img
+      width="100%"
+      src="https://img.youtube.com/vi/4ydG-NRTR_U/hqdefault.jpg"
+      alt="Radius of Curvature and Curve Tracing"
+    />
+    <br />
+    <b>Radius of Curvature & Curve Tracing</b>
+  </a>
+  <br />
+  <sub>Differential Calculus · Lecture 1</sub>
+</td>
+
+</tr>
+</table>
 
 <div align="center">
-  <p><b>💻 Languages</b></p>
+
+<a href="https://youtube.com/@ythimeshkp">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Explore Crafto Engineer" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📚 Topics I teach</b></summary>
+
+<br />
+
+| Area | Topics |
+|---|---|
+| 📐 Engineering Mathematics | Maxima & Minima, Asymptotes, Radius of Curvature, Curve Tracing, Partial Differentiation, Euler's Theorem, Linear Differential Equations, Charpit's Method and Lagrange's Linear Equation |
+| ⚛️ Engineering Physics | Important derivations, theory questions and Einstein's coefficients—SPE and STE relation |
+| 🔌 Electrical & Electronics | DC circuits, important numericals and exam-focused questions |
+| 🌐 Web & Career | Website fundamentals and the Google Student Ambassador interview journey |
+
+</details>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+  <h3 align="center">💱 Currency Converter</h3>
+
   <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    A sleek, dark-themed desktop currency converter built with Python and Tkinter. It uses a live API for real-time exchange-rate conversions.
   </p>
-  <p><b>⚛️ Frontend & UI</b></p>
+
+  <p align="center">
+    <a href="https://github.com/ERHIMESH/CURRENCY-CONVERTER">
+      <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Currency Converter repository" />
+    </a>
+  </p>
+</td>
+
+<td width="50%" valign="top">
+  <h3 align="center">🎬 Netflix Clone</h3>
+
   <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+    A frontend recreation project focused on practicing modern layouts, responsive design and visual hierarchy.
   </p>
-  <p><b>🎬 Creative</b></p>
+
+  <p align="center">
+    <a href="https://github.com/ERHIMESH/NETFLIX-CLONE">
+      <img src="https://img.shields.io/badge/View%20Repository-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Clone repository" />
+    </a>
+  </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+  <h3 align="center">🧮 GUI Calculator</h3>
+
   <p>
-    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+    A desktop calculator project demonstrating Python GUI fundamentals and practical interface design.
   </p>
-  <p><b>🤖 AI / Machine Learning</b></p>
+
+  <p align="center">
+    <a href="https://github.com/ERHIMESH/GUICALCULATOR">
+      <img src="https://img.shields.io/badge/View%20Repository-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="GUI Calculator repository" />
+    </a>
+  </p>
+</td>
+
+<td width="50%" valign="top">
+  <h3 align="center">🛍️ Client Catalogue Website</h3>
+
   <p>
-    <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
+    A catalogue-style website project created for presenting products and client information clearly.
   </p>
-  <p><b>🧰 Tools & Platforms</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+  <p align="center">
+    <a href="https://github.com/ERHIMESH/MOOLJI-CLEINT-CATALOGUE-WEBSITE">
+      <img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Client Catalogue Website repository" />
+    </a>
   </p>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,git,github,vscode,premiere&perline=10" alt="skill icons"/>
-</div>
+</td>
 
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</tr>
+</table>
 
-<!-- ===== FEATURED PROJECTS ===== -->
-<h2 align="center">🔥 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/ERHIMESH?tab=repositories">
+    <b>Explore all of my repositories →</b>
+  </a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/ERHIMESH/CURRENCY-CONVERTER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERHIMESH&repo=CURRENCY-CONVERTER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7"/></a>
-  <a href="https://github.com/ERHIMESH/PASS-CHECKER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERHIMESH&repo=PASS-CHECKER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/ERHIMESH/NETFLIX-CLONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERHIMESH&repo=NETFLIX-CLONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7"/></a>
-  <a href="https://github.com/ERHIMESH/MYPORTFOLIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERHIMESH&repo=MYPORTFOLIO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/ERHIMESH/GUICALCULATOR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ERHIMESH&repo=GUICALCULATOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7"/></a>
-  <br/><br/>
-  <a href="https://github.com/ERHIMESH?tab=repositories"><img src="https://img.shields.io/badge/%E2%9E%95%20View%20All%20Repositories-7b2ff7?style=for-the-badge"/></a>
-</div>
+---
 
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ERHIMESH&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7&text_color=ffffff"/>
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ERHIMESH&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=7b2ff7&currStreakLabel=00f0ff"/>
-</div>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERHIMESH&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ERHIMESH&bg_color=0d1117&color=00f0ff&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Himesh's%20Contribution%20Graph" alt="activity graph"/>
-</div>
-
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-<!-- ===== DEV QUOTE ===== -->
-<h2 align="center">💡 Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</div>
-
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-<!-- ===== ACHIEVEMENTS ===== -->
-<h2 align="center">🎯 Achievements & Certifications</h2>
+<!-- ================= SKILLS ================= -->
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-🎓 **Google Student Ambassador (India)** · Lachoo Memorial College<br/>
-🤖 **AI Internship** · Codec Technologies (real-world ML projects)<br/>
-🤝 **Campus Ambassador** · eDC IIT Delhi & UDGAM, IIT Guwahati<br/>
-📜 **Certs:** RS-CIT • AI Literacy • Gradient Descent (AI) • Google Play Academy • Professional Image
+### Frontend & Programming
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python&theme=dark" alt="React, JavaScript, HTML, CSS and Python" />
+
+### AI & Community
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI" />
+
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Community%20Management-6D28D9?style=flat-square" alt="Community Management" />
+
+  <img src="https://img.shields.io/badge/Leadership-DB2777?style=flat-square" alt="Leadership" />
+
+  <img src="https://img.shields.io/badge/Community%20Outreach-F59E0B?style=flat-square" alt="Community Outreach" />
+
+  <img src="https://img.shields.io/badge/Video%20Editing-E97366?style=flat-square" alt="Video Editing" />
+</p>
 
 </div>
 
-<!-- ===== NEON DIVIDER ===== -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+---
 
-<!-- ===== CONNECT ===== -->
-<h2 align="center">🤝 Connect With Me</h2>
+<!-- ================= EDUCATION ================= -->
+## 🎓 Education
+
+<table>
+
+<tr>
+  <td width="28%">
+    <b>B.Tech — CSE</b>
+    <br />
+    <sub>September 2025 – September 2029</sub>
+  </td>
+
+  <td>
+    <b>Lachoo Memorial College of Science & Tech</b>
+    <br />
+    Bachelor of Technology in Computer Science Engineering
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <b>Senior Secondary — PCM</b>
+    <br />
+    <sub>2023 – 2024</sub>
+  </td>
+
+  <td>
+    <b>Lord Satyam Children Academy Senior Secondary School</b>
+    <br />
+    Physics, Chemistry and Mathematics
+  </td>
+</tr>
+
+</table>
+
+---
+
+<!-- ================= CERTIFICATIONS ================= -->
+## 📜 Certifications
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/himeshji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ig.himeshkp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:jodhpuribannahimesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/himeshji"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://github.com/ERHIMESH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Gradient%20Descent%20Explained%20(AI)-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white" alt="Gradient Descent Explained AI" />
+
+<img src="https://img.shields.io/badge/RS--CIT%20Certification-0EA5E9?style=for-the-badge" alt="RS-CIT Certification" />
+
+<img src="https://img.shields.io/badge/Google%20Play%20Academy-Store%20Listing-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Academy Store Listing" />
+
+<img src="https://img.shields.io/badge/AI%20for%20Beginners-F59E0B?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI for Beginners" />
+
+<img src="https://img.shields.io/badge/AI%20Literacy%20for%20Everyone-EC4899?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI Literacy for Everyone" />
+
 </div>
 
-<!-- ===== ANIMATED FOOTER ===== -->
+---
+
+<!-- ================= FOOTER ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:2575fc,100:7b2ff7&height=160&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Build%20Something%20Epic%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
-  <b>⭐ From Himesh Kumar — Jodhpur, India</b>
+
+### 🤝 Let's build something meaningful together
+
+I'm open to **Frontend Development** and **AI internships** where I can learn, contribute and grow.
+
+<a href="mailto:jodhpuribannahimesh@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-jodhpuribannahimesh%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Himesh" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:DB2777,100:6D28D9&height=145&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=27&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="Thanks for visiting" />
+
 </div>
