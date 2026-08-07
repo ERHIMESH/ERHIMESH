@@ -1,3 +1,27 @@
+<!-- ================= HERO ================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,45:DB2777,100:F59E0B&height=220&section=header&text=Himesh%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Tech%20Educator%20%E2%80%A2%20B.Tech%20CSE&descSize=19&descAlignY=56&animation=fadeIn" alt="Himesh Kumar banner" />
+
+<a href="https://github.com/ERHIMESH">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=React+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+Python;Novathon+Champion+%E2%80%94+Ranked+%231+Overall+%F0%9F%8F%86;3x+Campus+Ambassador+%E2%80%94+Google+%7C+IIT+Delhi+%7C+IIT+Guwahati;Explaining+B.Tech+concepts+on+Crafto+Engineer+%F0%9F%93%BA;Open+to+Frontend+%26+AI+Internships+%F0%9F%9A%80" alt="Animated introduction" />
+</a>
+
+<p><b>I turn ideas into responsive web experiencesâ€”and difficult engineering topics into simple videos.</b></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/himeshji"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@ythimeshkp?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:jodhpuribannahimesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ERHIMESH"><img src="https://img.shields.io/badge/GitHub-ERHIMESH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ERHIMESH&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Jodhpur-Rajasthan-F59E0B?style=flat-square&logo=googlemaps&logoColor=white" alt="Jodhpur, Rajasthan" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square" alt="Open to internships" />
+</p>
+</div>
 
 
 <!-- ================= ABOUT ================= -->
