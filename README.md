@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=React+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+Python;Novathon+Champion+%E2%80%94+Ranked+%231+Overall+%F0%9F%8F%86;3x+Campus+Ambassador+%E2%80%94+Google+%7C+IIT+Delhi+%7C+IIT+Guwahati;Explaining+B.Tech+concepts+on+Crafto+Engineer+%F0%9F%93%BA;Open+to+Frontend+%26+AI+Internships+%F0%9F%9A%80" alt="Animated introduction" />
 </a>
 
-<p><b>I turn ideas into responsive web experiencesâ€”and difficult engineering topics into simple videos.</b></p>
+<p><b>I turn ideas into responsive web experiences and difficult engineering topics into simple videos.</b></p>
 
 <p>
   <a href="https://www.linkedin.com/in/himeshji"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
